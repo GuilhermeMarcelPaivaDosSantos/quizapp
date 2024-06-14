@@ -224,7 +224,7 @@ main button:hover {
     }
 
     main h2, 
-    main > div {
+    main div {
         width: 100%;
     }
 
